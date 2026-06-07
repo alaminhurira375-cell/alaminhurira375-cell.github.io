@@ -276,6 +276,14 @@ h2 {
   flex-wrap: wrap;
 }
 
+p,
+li,
+.citation,
+details p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 @media (max-width: 820px) {
   html {
     font-size: 16px;
