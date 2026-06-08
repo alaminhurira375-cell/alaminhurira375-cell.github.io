@@ -284,10 +284,19 @@ details p {
   text-justify: inter-word;
 }
 
+.profile-photo {
+  width: 100%;
+  max-width: 280px;
+  border: 1px solid var(--rule);
+  display: block;
+}
+
 @media (max-width: 820px) {
   html {
     font-size: 16px;
-  }
+  .profile-photo {
+  margin-bottom: 1.5rem;
+}}
 
   .topbar,
   .hero,
