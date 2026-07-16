@@ -1,0 +1,262 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Working Papers | Md Al Amin</title>
+
+  <meta
+    name="description"
+    content="Working papers by Md Al Amin on WIC, food security, diet quality, school meal policy, food hardship, energy economics, public health, and development economics."
+  >
+
+  <meta name="author" content="Md Al Amin">
+
+  <meta property="og:title" content="Working Papers | Md Al Amin">
+
+  <meta
+    property="og:description"
+    content="Working papers on nutrition assistance, food security, diet quality, school meal policy, food hardship, energy economics, and economic development."
+  >
+
+  <meta property="og:type" content="website">
+
+  <link
+    rel="canonical"
+    href="https://alaminhurira375-cell.github.io/working-papers.html"
+  >
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+  <header class="site-header">
+    <div class="topbar">
+
+      <a class="brand" href="index.html">
+        Md Al Amin
+      </a>
+
+      <nav class="nav" aria-label="Primary navigation">
+        <a href="index.html">Home</a>
+
+        <a href="working-papers.html" aria-current="page">
+          Working Papers
+        </a>
+
+        <a href="published-papers.html">
+          Published Papers
+        </a>
+
+        <a href="teaching.html">Teaching</a>
+        <a href="cv.html">CV</a>
+      </nav>
+
+    </div>
+  </header>
+
+  <main class="container">
+
+    <header class="research-intro">
+      <p class="eyebrow">Research</p>
+
+      <h1>Working Papers</h1>
+
+      <p class="lead">
+        My current research examines nutrition assistance programs, food
+        security, diet quality, public health, household well-being,
+        environmental economics, and economic development.
+      </p>
+    </header>
+
+    <section class="section">
+      <h2>Job Market Paper</h2>
+
+      <article class="paper">
+
+        <p class="paper-title">
+          The Effects of WIC on Household Food Security and the Quality of
+          Food Acquisitions
+        </p>
+
+        <p class="meta">
+          Md Al Amin and Travis Alan Smith. Dissertation Chapter 1 /
+          Job Market Paper.
+        </p>
+
+        <details>
+          <summary>Abstract</summary>
+
+          <p>
+            We examine the effect of participation in the Special Supplemental
+            Nutrition Program for Women, Infants, and Children (WIC) on
+            household food security and the quality of food acquisitions using
+            data from USDA's FoodAPS for 2012–2013. We employ propensity score
+            matching to address biases arising from self-selection into WIC.
+            The Healthy Eating Index is used to measure dietary quality and
+            captures the nutritional adequacy of household food purchases
+            relative to dietary guidance. This study aims to provide new
+            insights into program effectiveness along the lines of “nutrition
+            security,” loosely defined as having both an adequate amount and
+            quality of food. The findings are expected to provide evidence on
+            how WIC affects food insecurity and dietary outcomes among
+            low-income households, carrying important implications for
+            policymakers seeking to improve the design and implementation of
+            nutrition assistance programs.
+          </p>
+        </details>
+
+        <div class="citation">
+          Md Al Amin and Travis Alan Smith. “The Effects of WIC on
+          Household Food Security and the Quality of Food Acquisitions.”
+          Working paper, University of Georgia.
+        </div>
+
+      </article>
+    </section>
+
+    <section class="section">
+      <h2>Dissertation Research</h2>
+
+      <article class="paper">
+
+        <p class="paper-title">
+          How Would Changes to Community Eligibility Provision Thresholds
+          Affect Child Diet Quality?
+        </p>
+
+        <p class="meta">
+          Md Al Amin and Travis Alan Smith. Dissertation Chapter 2 /
+          AAEA 2026 accepted conference paper.
+        </p>
+
+        <details>
+          <summary>Abstract</summary>
+
+          <p>
+            The Community Eligibility Provision (CEP) allows eligible schools
+            to provide universal free school meals, increasing access to
+            nutritious food for children in high-poverty communities. In 2023,
+            the U.S. Department of Agriculture lowered the minimum Identified
+            Student Percentage (ISP) required for CEP eligibility from 40% to
+            25%, expanding the number of schools eligible to participate. This
+            study examines how alternative CEP eligibility thresholds would
+            affect child diet quality. We construct a novel school-level panel
+            of CEP eligibility and participation data from academic years
+            2014–2015 through 2023–2024 and link these data to school
+            demographic characteristics from the National Center for Education
+            Statistics (NCES). To estimate dietary impacts, we combine these
+            data with dietary intake information from the National Health and
+            Nutrition Examination Survey (NHANES) covering 2013–2023.
+            Following prior research, we estimate individual fixed-effects
+            models that relate Healthy Eating Index scores to the share of
+            calories consumed from school meals and away-from-home food
+            sources, accounting for unobserved child-specific characteristics.
+            We then simulate changes in diet quality under alternative CEP
+            eligibility thresholds by adjusting school meal consumption among
+            students attending schools that would gain or lose CEP eligibility.
+            Preliminary findings suggest that schools near the eligibility
+            threshold account for a modest share of total enrollment but
+            contain student populations particularly vulnerable to reductions
+            in school meal access. Simulations indicate that stricter CEP
+            eligibility requirements would reduce school meal consumption and
+            lower diet quality, with larger effects among disadvantaged
+            students.
+          </p>
+        </details>
+
+        <div class="citation">
+          Md Al Amin and Travis Alan Smith. “How Would Changes to
+          Community Eligibility Provision Thresholds Affect Child Diet
+          Quality?” Working paper, University of Georgia.
+        </div>
+
+      </article>
+
+      <article class="paper">
+
+        <p class="paper-title">
+          Measuring the Distance to Food Sufficiency: A Continuous Approach
+          to Food Hardship
+        </p>
+
+        <p class="meta">
+          Md Al Amin and Travis Alan Smith. Dissertation Chapter 3 /
+          SEA 2026 accepted conference paper.
+        </p>
+
+        <details>
+          <summary>Abstract</summary>
+
+          <p>
+            This study examines food hardship using a continuous measure based
+            on self-reported food expenditure shortfalls from the Current
+            Population Survey Food Security Supplement. Conventional food
+            insecurity indicators rely on discrete classifications that mask
+            variation in the severity of deprivation within categories.
+            Following recent work by Craig Gundersen, we use a resource-gap
+            approach that incorporates the additional dollars households
+            report needing to meet basic food needs. Building on this
+            framework, we construct a normalized needs index by comparing
+            households’ usual food expenditures with their reported shortfalls,
+            allowing for a more interpretable measure of the distance from a
+            food-sufficiency threshold. Using CPS Food Security Supplement data
+            from 2002 to 2023, we examine temporal trends and compare this
+            continuous measure with standard food insecurity indicators. Our
+            analysis highlights differences between binary and continuous
+            measures, particularly during periods of economic change, and
+            reveals substantial heterogeneity in hardship within food-insecure
+            populations. We further explore variation across demographic
+            groups and program participation, including SNAP recipients.
+          </p>
+        </details>
+
+        <div class="citation">
+          Md Al Amin and Travis Alan Smith. “Measuring the Distance to
+          Food Sufficiency: A Continuous Approach to Food Hardship.”
+          Working paper, University of Georgia.
+        </div>
+
+      </article>
+    </section>
+
+    <section class="section">
+      <h2>Under Review</h2>
+
+      <article class="paper">
+
+        <p class="paper-title">
+          The Impact of Energy Efficiency and Conservation Master Plan on
+          Primary Energy Consumption in Bangladesh: A Synthetic Control
+          Analysis
+        </p>
+
+        <p class="meta">
+          Under review at <em>Energy Nexus</em> [Elsevier].
+        </p>
+
+      </article>
+
+  
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+
+      <span>
+        &copy; 2026 Md Al Amin
+      </span>
+
+      <span>
+        Research materials available upon request
+      </span>
+
+    </div>
+  </footer>
+
+</body>
+</html>
