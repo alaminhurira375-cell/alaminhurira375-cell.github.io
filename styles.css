@@ -335,3 +335,60 @@ details p {
     padding: 0;
   }
 }
+
+
+.about-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 280px;
+  gap: 4rem;
+  align-items: start;
+  padding: 4rem 0 2rem;
+}
+
+.about-content {
+  max-width: 760px;
+}
+
+.about-content h1 {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+}
+
+.about-content p {
+  margin-bottom: 1.1rem;
+  line-height: 1.75;
+}
+
+.about-photo {
+  display: flex;
+  justify-content: center;
+}
+
+.about-photo .profile-photo {
+  width: 100%;
+  max-width: 260px;
+  height: auto;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.external-links {
+  margin-top: 1.5rem;
+}
+
+@media (max-width: 760px) {
+  .about-layout {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    padding-top: 2.5rem;
+  }
+
+  .about-photo {
+    order: -1;
+    justify-content: flex-start;
+  }
+
+  .about-photo .profile-photo {
+    max-width: 220px;
+  }
+}
